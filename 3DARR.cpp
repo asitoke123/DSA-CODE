@@ -7,7 +7,7 @@ int main()
  int arr[3][3][3];
  int i,j,k;
 
-cout<<"enter the elements of 2*2array";
+cout<<"enter the elements of array";
  for(i=0;i<n;i++)
  {
   for(j=0;j<n;j++)
