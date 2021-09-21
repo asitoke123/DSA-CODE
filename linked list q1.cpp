@@ -1,3 +1,4 @@
+//write a program to create a linked list with five elements and display it.
 #include<iostream.h>
 #include<conio.h>
 #include<malloc.h>
