@@ -54,9 +54,6 @@ int main()
      
      cout<<"linked list before insertion"<<endl;
      linklist(n1);
-     cout<<"linked list after insertion at beggining"<<endl;
-     n1=insert(n1,5);
-     linklist(n1);
      cout<<"linked list after insertion at the end"<<endl;
      n1=insertatend(n1,50);
      linklist(n1);
