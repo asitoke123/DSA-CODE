@@ -42,22 +42,16 @@ int pop()
 }
 
 int main() {
-    //display();
-    //int a=5;
-    //cout<<"\n enter the element:";
-    //cin>>a;
+    display();
     int t;
     display();
     push(10);
     push(20);
-    //push(30);
-    //push(40);
-    //push(50);
     t=pop();
     cout<<"\n element poped:"<<t;
     display();
     push(30);
     display();
-	return 0;
+ return 0;
 }
 
